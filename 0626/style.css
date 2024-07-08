@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+li {
+    background-color: antiquewhite;
+    height: 50px;
+    width: 150px;
+    text-align: center;
+    list-style-type: none;
+    border: 1px solid black;
+    margin: 3px auto;
+    border-radius: 10px;
+}
