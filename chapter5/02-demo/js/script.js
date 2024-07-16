@@ -73,10 +73,3 @@ for(let i = 0; i < lists.length; i++){
     menu.insertAdjacentHTML('beforeend', content);
 }
 
-
-
-// for(let i = 0; i < lists.length; i++){
-//     const {name, img, price} = list[i];
-//     const content = `<div><img src="images/${img}" alt=""><h2>${name}</h2><p>${price}円</p></div>`;
-//     menu.insertAdjacentHTML('beforeend', content)
-// }
